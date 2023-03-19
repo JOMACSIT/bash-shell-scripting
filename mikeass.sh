@@ -15,5 +15,4 @@ mv *.jpg *.png images
 mv *.avi *.mov videos 
 
 rm *.log
-
 tree
