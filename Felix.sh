@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: Felix 
+#Author: Felix Agyemang 
 
 touch b2.sh bashass.sh bash.sh black.mp3 bubu.avi dame.mov david.flac dev.log
 dino.log edochie.jpg efe.log games.avi hunger.mov mapple.jnp naija.jpg
