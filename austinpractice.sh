@@ -6,13 +6,19 @@ dino.log edochie.jpg efe.log games.avi hunger.mov mapple.jnp naija.jpg
 nana.mov peace.py pete.png python.py shata.flac sheriff.flac toyin.pdf
 van.avi wale.mp3 wike.avi wiz.mp3 yul.jpg yvonne.txt zanku.mp3 ghana.avi
 
-mkdir music images videos
+mkdir songs  photos videofiles
 
-mv *.mp3 *.flac music
+mv *.mp3 songs
 
-mv *.jpg *.png images
+mkdir *.flac songs
 
-mv *.avi *.mov videos
+mv *.jpg photos
+
+mkdir *.png photos
+
+mv *.avi videofiles
+
+mkdir *.mov videofiles
 
 rm *.log
 
