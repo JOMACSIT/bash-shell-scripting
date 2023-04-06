@@ -1,0 +1,4 @@
+The following are the working areas in a Local repo
+I. Working Area
+II. Staging Area
+III. Commit Area
