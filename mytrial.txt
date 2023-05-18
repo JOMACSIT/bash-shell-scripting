@@ -1,0 +1,6 @@
+# !/bin/bash
+# Author:mathias
+ 
+touch git.txt
+cd git.txt
+echo "i am making a trial" > git.txt
