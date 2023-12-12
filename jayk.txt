@@ -1,1 +1,2 @@
-today looks good
+#!/bin/bash
+echo today looks good
